@@ -2,6 +2,12 @@
 A message processing application that processes sales notificaation messages.
 
 An input file in the form of a text file has been created in the resources. The messages are listed in it.
+Messages are in the following format -
+MessageType
+Product
+Price
+Quantity/Adjustment to price if any
+
 A Reader class parses the file and stores the messages as a list of Objects. 
 A Message Class then randomly sends the messages to the Main function emulating an external message sending interface.
 The SaleProcessor class carries out the processing functions like calculating the no of sales of each product 
