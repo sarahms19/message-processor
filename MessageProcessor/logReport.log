@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-01-21T13:57:44</date>
+  <millis>1548079064537</millis>
+  <sequence>0</sequence>
+  <logger>com</logger>
+  <level>INFO</level>
+  <class>com.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Product banana - Sales - 40</message>
+</record>
+<record>
+  <date>2019-01-21T13:57:44</date>
+  <millis>1548079064551</millis>
+  <sequence>1</sequence>
+  <logger>com</logger>
+  <level>INFO</level>
+  <class>com.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Product apple - Sales - 40</message>
+</record>
+<record>
+  <date>2019-01-21T13:57:44</date>
+  <millis>1548079064552</millis>
+  <sequence>2</sequence>
+  <logger>com</logger>
+  <level>INFO</level>
+  <class>com.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Product avocado - Sales - 13</message>
+</record>
+<record>
+  <date>2019-01-21T13:57:44</date>
+  <millis>1548079064553</millis>
+  <sequence>3</sequence>
+  <logger>com</logger>
+  <level>INFO</level>
+  <class>com.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Product banana - Sales - 62</message>
+</record>
+<record>
+  <date>2019-01-21T13:57:44</date>
+  <millis>1548079064554</millis>
+  <sequence>4</sequence>
+  <logger>com</logger>
+  <level>INFO</level>
+  <class>com.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Product apple - Sales - 51</message>
+</record>
+<record>
+  <date>2019-01-21T13:57:44</date>
+  <millis>1548079064554</millis>
+  <sequence>5</sequence>
+  <logger>com</logger>
+  <level>INFO</level>
+  <class>com.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Product avocado - Sales - 23</message>
+</record>
+<record>
+  <date>2019-01-21T13:57:44</date>
+  <millis>1548079064555</millis>
+  <sequence>6</sequence>
+  <logger>com</logger>
+  <level>INFO</level>
+  <class>com.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Product pear - Sales - 10</message>
+</record>
+<record>
+  <date>2019-01-21T13:57:44</date>
+  <millis>1548079064556</millis>
+  <sequence>7</sequence>
+  <logger>com</logger>
+  <level>INFO</level>
+  <class>com.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Product banana - Sales - 63</message>
+</record>
+<record>
+  <date>2019-01-21T13:57:44</date>
+  <millis>1548079064557</millis>
+  <sequence>8</sequence>
+  <logger>com</logger>
+  <level>INFO</level>
+  <class>com.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Product apple - Sales - 94</message>
+</record>
+<record>
+  <date>2019-01-21T13:57:44</date>
+  <millis>1548079064558</millis>
+  <sequence>9</sequence>
+  <logger>com</logger>
+  <level>INFO</level>
+  <class>com.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Product avocado - Sales - 24</message>
+</record>
+<record>
+  <date>2019-01-21T13:57:44</date>
+  <millis>1548079064558</millis>
+  <sequence>10</sequence>
+  <logger>com</logger>
+  <level>INFO</level>
+  <class>com.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Product pear - Sales - 10</message>
+</record>
+<record>
+  <date>2019-01-21T13:57:44</date>
+  <millis>1548079064560</millis>
+  <sequence>11</sequence>
+  <logger>com</logger>
+  <level>INFO</level>
+  <class>com.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Product banana - Sales - 83</message>
+</record>
+<record>
+  <date>2019-01-21T13:57:44</date>
+  <millis>1548079064561</millis>
+  <sequence>12</sequence>
+  <logger>com</logger>
+  <level>INFO</level>
+  <class>com.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Product apple - Sales - 155</message>
+</record>
+<record>
+  <date>2019-01-21T13:57:44</date>
+  <millis>1548079064562</millis>
+  <sequence>13</sequence>
+  <logger>com</logger>
+  <level>INFO</level>
+  <class>com.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Product avocado - Sales - 25</message>
+</record>
+<record>
+  <date>2019-01-21T13:57:44</date>
+  <millis>1548079064562</millis>
+  <sequence>14</sequence>
+  <logger>com</logger>
+  <level>INFO</level>
+  <class>com.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Product pear - Sales - 10</message>
+</record>
+<record>
+  <date>2019-01-21T13:57:44</date>
+  <millis>1548079064564</millis>
+  <sequence>15</sequence>
+  <logger>com</logger>
+  <level>INFO</level>
+  <class>com.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Product banana - Sales - 84</message>
+</record>
+<record>
+  <date>2019-01-21T13:57:44</date>
+  <millis>1548079064565</millis>
+  <sequence>16</sequence>
+  <logger>com</logger>
+  <level>INFO</level>
+  <class>com.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Product apple - Sales - 166</message>
+</record>
+<record>
+  <date>2019-01-21T13:57:44</date>
+  <millis>1548079064565</millis>
+  <sequence>17</sequence>
+  <logger>com</logger>
+  <level>INFO</level>
+  <class>com.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Product avocado - Sales - 37</message>
+</record>
+<record>
+  <date>2019-01-21T13:57:44</date>
+  <millis>1548079064566</millis>
+  <sequence>18</sequence>
+  <logger>com</logger>
+  <level>INFO</level>
+  <class>com.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Product pear - Sales - 10</message>
+</record>
+<record>
+  <date>2019-01-21T13:57:44</date>
+  <millis>1548079064566</millis>
+  <sequence>19</sequence>
+  <logger>com</logger>
+  <level>INFO</level>
+  <class>com.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Pause - Stop Accepting Messages</message>
+</record>
+<record>
+  <date>2019-01-21T13:57:44</date>
+  <millis>1548079064567</millis>
+  <sequence>20</sequence>
+  <logger>com</logger>
+  <level>INFO</level>
+  <class>com.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>banana - Adjustment - 5p SUBTRACT</message>
+</record>
+<record>
+  <date>2019-01-21T13:57:44</date>
+  <millis>1548079064568</millis>
+  <sequence>21</sequence>
+  <logger>com</logger>
+  <level>INFO</level>
+  <class>com.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>apple - Adjustment - 20p MULTIPLY</message>
+</record>
+<record>
+  <date>2019-01-21T13:57:44</date>
+  <millis>1548079064568</millis>
+  <sequence>22</sequence>
+  <logger>com</logger>
+  <level>INFO</level>
+  <class>com.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>pear - Adjustment - 20p ADD</message>
+</record>
+</log>
